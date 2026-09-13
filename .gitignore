@@ -1,0 +1,14 @@
+# 忽略敏感配置文件
+config.json
+knowledge.txt
+
+# 忽略本地模型文件（太大）
+bge-small-zh/
+
+# 忽略Python虚拟环境和缓存
+.venv/
+__pycache__/
+*.pyc
+
+# 忽略Streamlit缓存
+.streamlit/

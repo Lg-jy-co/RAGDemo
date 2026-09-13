@@ -1,0 +1,5 @@
+{
+    "api_base": "https://open.bigmodel.cn/api/paas/v4/",
+    "api_key": "智谱API_KEY",
+    "model": "glm-4.7"
+}
